@@ -244,7 +244,6 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
-secrets.config
 discordbots - Web Deploy.pubxml
 ffprobe.exe
 ffplay.exe
